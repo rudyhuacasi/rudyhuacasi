@@ -7,9 +7,9 @@
 </p>
 
 <!-- main -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Full Stack Web Developer 
+## <picture><img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/about_me.gif" width = 50px></picture> Full Stack Web Developer 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Right_Side.gif" width = 250px></picture>
 
   
 Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti della programmazione, sia frontend che backend. Non significa essere esperti in una singola lingua o in una tecnologia esistente: nessuno può esserlo.
@@ -19,12 +19,12 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 - :thinking: Al momento sono disponibile per un nuovo `opportunità di lavoro`, questo è il [MIO CURRICULUM](http://lnkiy.in/Ahmed_Hossam_Resume).
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connettiti con me
+## <picture> <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Connect-with-me.gif" width="100px"> </picture> Connettiti con me
  <div style="text-align: center;">
 
-  [![linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "linkedin")](https://www.linkedin.com/in/rudy-huacasi-21aa1b296/) [![rudyalexishuacasichambi@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "rudyalexishuacasichambi@gmail.com")](rudyalexishuacasichambi@gmail.com)
+  [![linkedin](https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/linkedin.png "linkedin")](https://www.linkedin.com/in/rudy-huacasi-21aa1b296/) [![rudyalexishuacasichambi@gmail.com](https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/apple-mail.png "rudyalexishuacasichambi@gmail.com")](rudyalexishuacasichambi@gmail.com)
   <a href="https://github.com/rudyhuacasi">
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="github" height="50">
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/github-6980894_1280.png" title="github" height="50">
   </a>
 
  </div>
@@ -34,23 +34,23 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 
 ## 🛠️ Competenze
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Front_End.gif" width = 50px>  </picture> Frontend Development
 <p align="center"> 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> 
-  <img src="https://img.icons8.com/color/48/000000/sass.png" title="Sass"/> 
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/html-5--v1.png" title="HTML5"/> 
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/css3.png" title="CSS"/> 
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/sass.png" title="Sass"/> 
   <img src="https://epss.ucla.edu/static/bootstrap-5.2.3/site/static/docs/5.2/assets/brand/bootstrap-logo.svg" title="Bootstrap" height="50"></img>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/> 
-  <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" title="Vue js" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/javascript--v1.png" title="Javascript"/> 
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/vue-js-logo-png_seeklogo-274070.png" title="Vue js" height="50"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/npm.png"/>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Backend Development
+ ### <picture> <img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Software_Tools.gif" width = 50px>  </picture> Backend Development
  
 <p align="center">
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="php"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png" title="Laravel"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.utdstc.com/icon/107/559/107559657e99d6eab63a18b90e6c2445e3e7c58338f2e058bd2721ac838c85e5:100" height="50"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/php-logo.png" title="php"/> <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/laravel.png" title="Laravel"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/mysql-logo.png"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/107559657e99d6eab63a18b90e6c2445e3e7c58338f2e058bd2721ac838c85e5:100" height="50"/>
 </p>
 
 <br> 
@@ -63,7 +63,7 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 </p>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statistiche di Github 
+## <picture> <img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/banner-footer.gifStatistics.gif" width = 50px>  </picture> Statistiche di Github 
 
 
 	
@@ -76,6 +76,5 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 
 <!-- footer -->
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
+<img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/banner-footer.gif">
 <!-- footer -->
