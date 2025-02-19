@@ -16,15 +16,16 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 <br>
 -🎓 <strong>Istruzione:</strong> Ho studiato <em>Full Stack Developer</em> presso <em>Boolean</em>.
 <br>
-- :thinking: Al momento sono disponibile per un nuovo `opportunità di lavoro`, questo è il [MIO CURRICULUM](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Al momento sono disponibile per un nuovo `opportunità di lavoro`, questo è il [MIO CURRICULUM](https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/cv/cv_rudy_huacasi.pdf).
 
+<br>
 
 ## <picture> <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Connect-with-me.gif" width="100px"> </picture> Connettiti con me
  <div style="text-align: center;">
 
   [![linkedin](https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/linkedin.png "linkedin")](https://www.linkedin.com/in/rudy-huacasi-21aa1b296/) [![rudyalexishuacasichambi@gmail.com](https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/apple-mail.png "rudyalexishuacasichambi@gmail.com")](rudyalexishuacasichambi@gmail.com)
   <a href="https://github.com/rudyhuacasi">
-  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/github-6980894_1280.png" title="github" height="50">
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/github-6980894_1280.webp" title="github" height="50">
   </a>
 
  </div>
@@ -50,7 +51,7 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 <p align="center">
   <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/php-logo.png" title="php"/> <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/laravel.png" title="Laravel"/>
   <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/mysql-logo.png"/>
-  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/107559657e99d6eab63a18b90e6c2445e3e7c58338f2e058bd2721ac838c85e5:100" height="50"/>
+  <img src="https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/icons/107559657e99d6eab63a18b90e6c2445e3e7c58338f2e058bd2721ac838c85e5_100.webp" height="50"/>
 </p>
 
 <br> 
@@ -63,7 +64,7 @@ Lo sviluppatore full-stack è un programmatore che conosce tutti gli aspetti del
 </p>
 
 
-## <picture> <img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/banner-footer.gifStatistics.gif" width = 50px>  </picture> Statistiche di Github 
+## <picture> <img src = "https://raw.githubusercontent.com/rudyhuacasi/rudyhuacasi/main/img/Statistics.gif" width = 50px>  </picture> Statistiche di Github 
 
 
 	
